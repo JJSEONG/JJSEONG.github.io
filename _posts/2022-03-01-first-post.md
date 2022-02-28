@@ -6,8 +6,6 @@
     - Markdown
   tags:
     - [Markdown, Github, Git]
-  author_profile : true
-  sidebar_main : true
 ---
 <div style="text-align: center">
   <img src="../Markdown.png" width="300px">
